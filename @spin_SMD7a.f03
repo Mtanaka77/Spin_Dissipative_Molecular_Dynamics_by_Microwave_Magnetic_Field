@@ -129,8 +129,7 @@
 !*  Format statement is DIFFERENT in Fortran 2003.               *
 !*****************************************************************
 !* Fortran 2003 of gfortran:                                     *
-!*                                                               *
-!% mpif90 -mcmodel=medium -fpic -O2 -o ax.out @spin_SMD7a.f03 -I/opt/fftw3/include -L/opt/fftw3/lib -lfftw3 &> log
+!* gfortran: % mpif90 -mcmodel=medium -fpic -O2 -o ax.out @spin_SMD7a.f03 -I/opt/fftw3/include -L/opt/fftw3/lib -lfftw3 &> log
 !% mpiexec -n 5 ax.out &  <- <proc>=5 or odd integer             *
 !* Debian-13: -fallow-argument-mismatch                          *
 !*****************************************************************
