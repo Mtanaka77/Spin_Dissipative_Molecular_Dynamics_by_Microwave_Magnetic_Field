@@ -1,4 +1,4 @@
-# Spin Dissipative Molecular Dynamics by Magnetic Microwaves
+# Spin Dissipative Molecular Dynamics by Magnetic Microwaves #
 
 ## Microwave sintering experiments and its theory
 
