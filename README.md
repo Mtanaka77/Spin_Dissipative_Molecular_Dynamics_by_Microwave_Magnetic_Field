@@ -2,7 +2,7 @@
 
 ## Microwave sintering experiments and its theory
 
-We mark that microwave magnetic field to heat metal oxide of magnetite 
+We mark that microwave magnetic field is to heat metal oxide of magnetite 
 which is above the Curie temperatre 585 Celsius to 1300 Celsius.
 Microwave sintering was tested by experiments and good quarity irons were created 
 (R. Roy et. al., Nature, 1999), Ref.1.  
