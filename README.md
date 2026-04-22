@@ -1,6 +1,6 @@
-# Spin Dissipative Molecular Dynamics by Magnetic Microwaves #
+## Spin Dissipative Molecular Dynamics by Magnetic Microwaves ##
 
-## Microwave sintering experiments and its theory
+## Microwave Sintering Experiments and its Theory
 
 We mark that microwave magnetic field is to heat metal oxide of magnetite 
 which is above the Curie temperatre 585 Celsius to 1300 Celsius.
@@ -13,7 +13,7 @@ temperature (M. Tanaka et al., Phys. Rev. B, 2009), Ref.2. The recent
 simulations using Fortran 2003/2008 and MPICH4 with the updated code 
 reproduce the same result of magnetic magnetite sintering.
 
-## Simulation procedures and our theory
+## Simulation Procedures and our Theory
 
 Electron spins of Fe(3+), Fe(2+) and O(2-) in cubic cells
 
@@ -36,7 +36,7 @@ microwave magnetic sintering, Ref. 2. Recent simulations with Fortran 2003/2008
 and MPICH4, with the code update, are the same result of microwave magnetic sintering. 
 
 
-## Numerical code, parameters and files
+## Numerical Code, Parameters and Files
 
 1) @spin_SMD7a.f03: Dissipative spin molecular dynamics. An odd number of processors
 in the z direction is required for your choice. Read the simulation code and parameters
